@@ -1,0 +1,7 @@
+requests
+streamlit
+python-dotenv
+Pillow
+groq
+pinecone
+unstructured-client
