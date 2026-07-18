@@ -1,2 +1,2 @@
 # RAG
-jina + pinecone + unstructured[pdf]
+unstructured-client > jina > pinecone > groq
